@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+void main()
+{
+struct a{int b;char str;}
+struct a{};
+struct {int a char str;}
+printf("\n ");
+}
